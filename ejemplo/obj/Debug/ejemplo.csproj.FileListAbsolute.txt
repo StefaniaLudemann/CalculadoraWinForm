@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\calculadora1\ejemplo\bin\Debug\ejemplo.exe.config
+C:\Users\stefa\source\repos\calculadora1\ejemplo\bin\Debug\ejemplo.exe
+C:\Users\stefa\source\repos\calculadora1\ejemplo\bin\Debug\ejemplo.pdb
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.Form1.resources
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.Properties.Resources.resources
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.exe
+C:\Users\stefa\source\repos\calculadora1\ejemplo\obj\Debug\ejemplo.pdb
